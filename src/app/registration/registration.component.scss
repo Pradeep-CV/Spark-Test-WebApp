@@ -1,0 +1,106 @@
+.registration-container {
+  padding-top: 100px;
+}
+
+.registration-card {
+  width: 50%;
+  max-width: 600px;
+}
+
+.registration-card-content {
+  padding: 0;
+}
+
+.form-field {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.banner {
+  width: 30%;
+}
+
+.form-section {
+  padding: 0;
+}
+
+.registration-form-content {
+  width: 70%;
+  padding: 20px;
+}
+
+.mat-mdc-card-content:last-child {
+  padding-bottom: 0;
+}
+
+.mat-mdc-card-content:first-child {
+  padding-top: 0;
+}
+
+.register-main-content {
+  margin: 0;
+}
+
+.banner {
+  background-image: url('../../assets/abstract_blue.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.login-anchor {
+  padding: 10px;
+}
+
+.mat-mdc-outlined-button:not(:disabled) {
+  color: #2626c1;
+}
+
+mat-hint {
+  color: #df5757;
+}
+
+.padding-box {
+  padding-bottom: 15px;
+}
+
+.mat-mdc-form-field-hint-wrapper {
+  display: block !important;
+}
+
+
+@media (min-width: 769px) and (max-width: 1024px) {
+
+  .registration-card {
+    width: 50%;
+    max-width: 600px;
+  }
+
+  .banner {
+    width: 20%;
+  }
+
+  .registration-form-content {
+    width: 80%;
+    padding: 20px;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .registration-card {
+    width: 80%;
+    max-width: 600px;
+  }
+
+  .banner {
+    width: 10%;
+  }
+
+  .registration-form-content {
+    width: 90%;
+    padding: 15px;
+  }
+
+}

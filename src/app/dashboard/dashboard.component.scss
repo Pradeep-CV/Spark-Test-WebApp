@@ -1,0 +1,37 @@
+
+.header {
+  height: 100px;
+  background-color: #e1e1e1;
+  padding: 0 20px;
+  background-color: #060635;
+  color: #e1e1e1;
+}
+
+.dashboard {
+  padding: 20px;
+}
+
+.image-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px; /* Adjust the gap as needed */
+}
+
+.image-item {
+  width: 100%;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.logout {
+  cursor: pointer;
+  transition: 300ms;
+}
+
+.logout:hover {
+  color: #717171;
+  transition: 300ms;
+}

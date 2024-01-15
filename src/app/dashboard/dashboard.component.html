@@ -1,0 +1,18 @@
+<div>
+  <div class="header d-flex justify-content-between align-items-center">
+    <div>Welcome...</div>
+    <div class="user-section">
+      <span>{{ userName }} | </span>
+      <span class="logout" (click)="logout()">Logout</span>
+    </div>
+  </div>
+  <div class="dashboard">
+    <div class="image-container">
+      <ng-container *ngFor="let link of imageLinks; let i = index">
+        <div  class="image-item" *ngIf="!imageLoadError[i]">
+          <img [src]="link?.image_link" alt="Image" (error)="handleImageError(i)">
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</div>

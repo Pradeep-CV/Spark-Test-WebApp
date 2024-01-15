@@ -1,0 +1,116 @@
+{
+  "register": [
+    {
+      "id": "5010",
+      "email": "cvp@gmail.com",
+      "firstName": "cvp",
+      "lastName": "v",
+      "userName": "cvp1212",
+      "password": "qwerty@1234",
+      "passwordConfirm": "qwerty@1234"
+    },
+    {
+      "id": "b7bd",
+      "email": "abc@12",
+      "firstName": "cv",
+      "lastName": "cv",
+      "userName": "cvcvc",
+      "password": "qwerty@12",
+      "passwordConfirm": "qwerty@12"
+    }
+  ],
+  "login": [
+    {
+      "id": "5844",
+      "userName": "cvp1212",
+      "password": "qwerty@1234"
+    },
+    {
+      "id": "e965",
+      "userName": "cvp1212",
+      "password": "qwerty@1234"
+    },
+    {
+      "id": "455c",
+      "userName": "cvp1212",
+      "password": "qwerty@1234"
+    },
+    {
+      "id": "3e3c",
+      "userName": "cvpv123",
+      "password": "qwerty12345@3"
+    },
+    {
+      "id": "ff6b",
+      "userName": "cvpv123",
+      "password": "qwerty12345@3"
+    },
+    {
+      "id": "ae75",
+      "userName": "cvpv123",
+      "password": "qwerty12345@3"
+    },
+    {
+      "id": "b1ef",
+      "userName": "cvpv123",
+      "password": "qwerty12345@3"
+    },
+    {
+      "id": "9ee2",
+      "userName": "cvpv123",
+      "password": "qwerty12345@3"
+    },
+    {
+      "id": "c960",
+      "userName": "cvpv123",
+      "password": "qwerty12345@3"
+    },
+    {
+      "id": "b1af",
+      "userName": "cvcvc",
+      "password": "qwerty@12"
+    }
+  ],
+  "dashboard": [
+    {
+      "id": "1",
+      "image_link": "https://images.pexels.com/photos/15286/pexels-photo.jpg"
+    },
+    {
+      "id": "2",
+      "image_link": "https://img.freepik.com/free-photo/shiraito-waterfall-autumn-japan_335224-193.jpg?w=2000"
+    },
+    {
+      "id": "3",
+      "image_link": "https://www.aakash.ac.in/blog/wp-content/uploads/2022/07/Blog-Image-50.jpg"
+    },
+    {
+      "id": "4",
+      "image_link": "https://cdn.pixabay.com/photo/2015/12/01/20/28/road-1072821__480.jpg"
+    },
+    {
+      "id": "5",
+      "image_link": "https://www.rd.com/wp-content/uploads/2020/04/GettyImages-1093840488-5-scaled.jpg"
+    },
+    {
+      "id": "6",
+      "image_link": "https://pbs.twimg.com/media/Fh_XnazXwAEPHAI?format=jpg&name=large"
+    },
+    {
+      "id": "7",
+      "image_link": "https://ggsc.s3.amazonaws.com/images/uploads/LAKE-TREE.jpg"
+    },
+    {
+      "id": "8",
+      "image_link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKp9PrLqwyQYnJLDsk5P8TVxQ-J7obh_gxjQ&usqp=CAU"
+    },
+    {
+      "id": "9",
+      "image_link": "https://i.insider.com/5b4e1386afb7751b008b45d1?width=750&format=jpeg&auto=webp"
+    },
+    {
+      "id": "10",
+      "image_link": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg"
+    }
+  ]
+}
